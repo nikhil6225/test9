@@ -1,7 +1,10 @@
+<<<<<<< Updated upstream
 Error
 fixed it 
 ###############
 
+=======
+>>>>>>> Stashed changes
 75% of the code
 ###############
 
